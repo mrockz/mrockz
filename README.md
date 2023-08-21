@@ -1,7 +1,7 @@
 - 👋 Hola, Mi nombre es Cristóbal y soy de Chile 
 - 👀 Mis interes son la tecnología e Internet 
 - 🌱 Estoy aprendiendo desarrollo web 
-- 💞️ Me gustaría colaborar armando distintas proyectos web
+- 💞️ Me gustaría colaborar armando distintos proyectos web
 - 📫 Me puedes buscar aquí en GitHUb con mi id que es @mrockz
 
 <!---
