@@ -1,4 +1,4 @@
-- 👋 Hola, Mi nombre es Sergio y soy de Chile 
+- 👋 Hola, Mi nombre es Cristóbal y soy de Chile 
 - 👀 Mis interes son la tecnología e Internet 
 - 🌱 Estoy aprendiendo desarrollo web 
 - 💞️ Me gustaría colaborar armando distintas proyectos web
